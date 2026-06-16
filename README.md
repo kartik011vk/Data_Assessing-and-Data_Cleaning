@@ -214,15 +214,20 @@ This project demonstrates practical experience with:
 # Repository Structure
 
 ```text
+## Repository Structure
+
+```text
 Data_Assessing-and-Data_Cleaning/
 │
-├── Data_cleaning.ipynb
 ├── README.md
-├── patients.csv
-├── treatments.csv
-├── treatments_cut.csv
-└── adverse_reactions.csv
-
+├── Data_cleaning.ipynb
+│
+└── dataset/
+    ├── patients.csv
+    ├── treatments.csv
+    ├── treatments_cut.csv
+    └── adverse_reactions.csv
+```
 
 Through this project I learned how to:
 

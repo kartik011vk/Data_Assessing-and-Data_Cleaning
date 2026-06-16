@@ -214,15 +214,15 @@ This project demonstrates practical experience with:
 # Repository Structure
 
 ```text
-Data_Assessing_and_Data_Cleaning/
+Data_Assessing-and-Data_Cleaning/
 │
 ├── Data_cleaning.ipynb
 ├── README.md
-```
+├── patients.csv
+├── treatments.csv
+├── treatments_cut.csv
+└── adverse_reactions.csv
 
----
-
-# Key Learning Outcomes
 
 Through this project I learned how to:
 
